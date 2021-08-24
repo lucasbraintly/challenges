@@ -38,4 +38,4 @@ echo $relojPremium->getGastoEnergetico(4); // Response: 42
 
 ## Condiciones de Entrega
 El entregable debe ser un unico archivo de nombre relojes.php, el cual permita ejecutarse por consola mediante un simple comando » php relojes.php
-Podes descargar la estructura PHP basica para el ejercicio haciendo click aquí
+Podes descargar la estructura PHP basica para el ejercicio desde el archivo `index.php`
