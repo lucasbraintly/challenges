@@ -1,0 +1,11 @@
+/*TABLA VISTA EN CELULARES CON SCROLL*/
+@media screen and (max-width: 600px) {
+  table {
+    display: block;
+    overflow-x: auto; 
+  }
+}
+
+.tab-content {
+  padding-top: 10px;
+}
